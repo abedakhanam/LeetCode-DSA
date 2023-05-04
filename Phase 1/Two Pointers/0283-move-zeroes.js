@@ -1,4 +1,8 @@
-//array updated
+/*
+Abeda Khanam
+03 May 23
+https://leetcode.com/problems/move-zeroes/
+ */
 /**
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.
